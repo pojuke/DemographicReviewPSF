@@ -11,5 +11,5 @@ Code and Data for Ke et al.: Time will tell: the temporal and demographic contex
 1. ``Data_DemographicReview_CrawfordAndYan.xlsx`` -- Compiled data from Crawford et al. (2019, Ecology Letters) and Yan et al. (2022, PNAS) used in ``Figure3_MetaAnalysis.R``.
 2. ``Teste_et_al_2017_Science_Biomass.xlsx`` -- Data from Teste et al. (2017, Science) used to parameterize the model in ``FigureBox1_TemporalPatchOccupancy.R``.
 3. ``DecaySimulation.rds`` -- Simulation outputs used to generate Figure Box 1. This is the output from ``FigureBox1_TemporalPatchOccupancy.R`` and is directly provided here as the simulation will take a while.
-4. ``ModelFramework_AnnualModel.pdf`` -- Illustration created by BioRender; provided to make Figure 2 fully reproducible.
-5. ``ModelFramework_PatchOccupancyModel.pdf`` -- Illustration created by BioRender; provided to make Figure Box 1 fully reproducible.
+4. ``ModelFramework_AnnualModel.pdf`` -- Model diagram created in BioRender (license: https://BioRender.com/0kwj3z5); provided to make Figure 2 fully reproducible.
+5. ``ModelFramework_PatchOccupancyModel.pdf`` -- Model diagram created by authors in Illustrator; provided to make Figure Box 1 fully reproducible.
